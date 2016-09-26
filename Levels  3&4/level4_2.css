@@ -1,0 +1,25 @@
+h1{
+	background-color: blue;
+	text-align: center;
+}
+
+h2{
+	background-color: blue;
+	text-align: right;
+}
+
+h3{
+	background-color: green;
+	color: white;
+	padding: 75px;
+}
+
+h4{
+	background-color: green;
+	padding: 25px;
+}
+
+h6{
+	background-color: blue;
+	color: green;
+}

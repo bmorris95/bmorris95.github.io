@@ -1,0 +1,19 @@
+h1{
+	font-family: Verdana;
+	color: red;
+}
+
+h2{
+	text-align: center; 
+	background-color: red;
+}
+
+h3{
+	padding: 300px;
+	color: red;
+}
+
+h4{
+	text-align: right;
+	color: gray;
+}
